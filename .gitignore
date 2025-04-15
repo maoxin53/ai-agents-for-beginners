@@ -9,7 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-.env.*
+.env.example
 .chainlit
 .venv
 *.DS_Store
